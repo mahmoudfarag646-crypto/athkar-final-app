@@ -1,7 +1,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { AIThikrResponse } from "../types";
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey:'AIzaSyCE_IbxfIRyQ5S2E3ZofFw2CTiwsHqpe2Y' });
 
 /**
  * Extracts Athkar from an image and formats it into a structured JSON list.
