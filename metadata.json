@@ -1,0 +1,7 @@
+{
+  "name": "Athkar AI",
+  "description": "A smart Athkar application that allows you to digitize prayer books using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
